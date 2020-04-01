@@ -7,25 +7,25 @@ menu:
     weight: 20
 ---
 
-FiveM documentation
+NotPixel documentation
 ===================
 
-Welcome to the new home for documentation for the [FiveM][home] multiplayer modification. <br/>
-If you just want to _play_ FiveM, download the client from the [website][home].
+Welcome to the official documentation for the [NotPixel][home] FiveM Roleplay server. <br/>
+The aim of the documenation is to help new players adjust and learn the features of NotPixel.
 
-For any questions or problems related to your server or scripting, feel free to
-get in touch with us on our [forums][forum] or on [Discord][discord].
+For any questions or problems related to your experience on NotPixel, feel free to
+get in touch with us on the [Discord][discord].
 
 <div style="font-size: 0;">
   <div style="width: 50%; vertical-align: top; display: inline-block; font-size: 1.05rem; padding-right: 5px;">
     <div style="border: 1px solid lightgray; padding: 15px; margin-bottom: 5px;">
-      <h4>Play FiveM</h4>
+      <h4>Play NotPixel</h4>
       <ul>
-        <li><a href="/docs/client-manual/installing-fivem">Installing FiveM</a></li>
-        <li><a href="/docs/client-manual/where-to-buy-gtav">Where to buy GTA V</a></li>
-        <li><a href="/docs/client-manual">Client manual</a></li>
-        <li><a href="/support/client-faq">Frequently asked questions</a></li>
-        <li><a href="/support/client-issues">Troubleshooting issues</a></li>
+        <li><a href="/docs/play-notpixel/installing-fivem">Installing FiveM</a></li>
+        <li><a href="/docs/play-notpixel/connect">Connecting to NotPixel</a></li>
+        <li><a href="/docs/play-notpixel">Play NotPixel</a></li>
+        <li><a href="https://rules.notpixel.com">Reading the rules</a></li>
+        <li><a href="/docs/play-notpixel/contact-staff">Contacting Staff</a></li>
       </ul>
     </div>
     <div style="border: 1px solid lightgray; padding: 15px; margin-bottom: 5px;">
@@ -76,7 +76,7 @@ get in touch with us on our [forums][forum] or on [Discord][discord].
       <ul>
         <li><a href="/scripting-manual/introduction">Introduction</a></li>
         <li><a href="/scripting-reference/resource-manifest/resource-manifest">Resource manifest</a></li>
-        <li><a href="https://runtime.fivem.net/doc/reference.html" target="_blank">Native functions reference</a></li>
+        <li><a href="https://runtime.NotPixel.net/doc/reference.html" target="_blank">Native functions reference</a></li>
         <li><a href="/scripting-reference/client-functions">Client functions</a></li>
         <li><a href="/scripting-reference/server-functions">Server functions</a></li>
         <!-- <li><a href="/scripting-reference/useful-functions">Useful functions</a></li> -->
@@ -121,6 +121,6 @@ get in touch with us on our [forums][forum] or on [Discord][discord].
   </div>
 </div>
 
-[home]: https://fivem.net/
-[forum]: https://forum.fivem.net/
-[discord]: https://discord.gg/GtvkUsc
+[home]: https://notpixel.com/
+[forum]: https://forum.notpixel.com/
+[discord]: https://discord.notpixel.com
