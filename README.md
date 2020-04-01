@@ -1,7 +1,8 @@
-FiveM Documentation
+NotPixel Documentation
 ===================
 
-Source of [docs.fivem.net][docs].
+Official source is -
+[docs.fivem.net][docs].
 
 Development
 -----------
