@@ -31,6 +31,7 @@ We try to cover all commands in the following table.
 | /id                           | Obtain your "PayPal" ID.                                                  |
 | /jobc [text]                  | Sends a message to all those of the same job as you.                      |
 | /lawyer                       | Checks Yellow Pages for a Lawyer.                                         |
+| /logout                       | Used to return back to the character selection screen.                    |
 | /mask                         | Toggles your mask (clothing).                                             |
 | /me                           | Describe an action you are doing.                                         |
 | /pants                        | Toggles your pants (clothing).                                            |

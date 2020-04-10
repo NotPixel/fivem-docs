@@ -31,9 +31,9 @@ get in touch with us on the [Discord][discord].
     <div style="border: 1px solid lightgray; padding: 15px; margin-bottom: 5px;">
       <h4>Getting started</h4>
       <ul>
-        <li><a href="/docs/getting-started/installing-fivem">Getting used to NotPixel</a></li>
-        <li><a href="/docs/getting-started/connect">Common Hotkeys</a></li>
-        <li><a href="/docs/getting-started">Common Commands</a></li>
+        <li><a href="/docs/getting-started">Getting used to NotPixel</a></li>
+        <li><a href="/docs/getting-started/hotkeys">Common Hotkeys</a></li>
+        <li><a href="/docs/getting-started/commands">Common Commands</a></li>
       </ul>
     </div>
     <!-- <div style="border: 1px solid lightgray; padding: 15px; margin-bottom: 5px;">
