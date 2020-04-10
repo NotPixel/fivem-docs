@@ -15,11 +15,11 @@ How do I clear my cache?
 ------------------------
 
 To clear your cache, please do the following:
-**1.** Close FiveM, also double check Task Manager.
-**2.** Right click your FiveM Shortcut and click `open file location`
-**3.** Double Click **FiveM Application Data** and open the Cache folder.
-**4.** Delete all files in there, **excluding** the `game` folder.
-**5.** Launch FiveM and connect to `notpixel.com`.
+- Close FiveM, also double check Task Manager.
+- Right click your FiveM Shortcut and click `open file location`
+- Double Click **FiveM Application Data** and open the Cache folder.
+- Delete all files in there, **excluding** the `game` folder.
+- Launch FiveM and connect to `notpixel.com`.
 
 Do we have an AOP?
 -------------------------
