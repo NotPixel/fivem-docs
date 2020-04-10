@@ -4,4 +4,5 @@ weight: 220
 layout: single
 ---
 
-- [FAQ](/docs/support/faq)
+- [Game FAQ](/docs/support/game-faq)
+- [TeamSpeak FAQ](/docs/support/teamspeak-faq)
