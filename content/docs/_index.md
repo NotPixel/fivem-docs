@@ -36,20 +36,20 @@ get in touch with us on the [Discord][discord].
         <li><a href="/docs/getting-started/commands">Common Commands</a></li>
       </ul>
     </div>
-    <!-- <div style="border: 1px solid lightgray; padding: 15px; margin-bottom: 5px;">
-      <h4>Scripting manual</h4>
+    <div style="border: 1px solid lightgray; padding: 15px; margin-bottom: 5px;">
+      <h4>Character Management</h4>
       <ul>
-        <li><a href="/scripting-manual/introduction/introduction-to-resources">Introduction to resources</a></li>
-        <li><a href="/scripting-manual/debugging-scripts">Debugging your scripts</a></li>
+        <li><a href="/scripting-manual/introduction/introduction-to-resources">Ways To Live</a></li>
+        <!--<li><a href="/scripting-manual/debugging-scripts">Debugging your scripts</a></li>
         <li><a href="/scripting-manual/creating-a-custom-loadscreen">Creating a custom loadscreen</a></li>
         <li><a href="/scripting-manual/working-with-events">Working with events</a></li>
         <li><a href="/scripting-manual/using-nui">Using NUI</a></li> 
         <li><a href="/scripting-manual/using-dui">Using DUI</a></li>
         <li><a href="/scripting-manual/using-scaleform">Using Scaleform</a></li>
-        <li><a href="/scripting-manual">Read the full manual</a></li>
+        <li><a href="/scripting-manual">Read the full manual</a></li>!-->
       </ul>
     </div>
-    <div style="border: 1px solid lightgray; padding: 15px; margin-bottom: 5px;">
+    <!-- <div style="border: 1px solid lightgray; padding: 15px; margin-bottom: 5px;">
       <h4>Game references</h4>
       <ul>
         <li><a href="/game-references/blips">Blips</a></li>
