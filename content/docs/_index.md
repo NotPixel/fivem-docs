@@ -39,7 +39,7 @@ get in touch with us on the [Discord][discord].
     <div style="border: 1px solid lightgray; padding: 15px; margin-bottom: 5px;">
       <h4>Character Management</h4>
       <ul>
-        <li><a href="/scripting-manual/introduction/introduction-to-resources">Ways To Live</a></li>
+        <li><a href="/character-management/ways-of-living">Ways To Live</a></li>
         <!--<li><a href="/scripting-manual/debugging-scripts">Debugging your scripts</a></li>
         <li><a href="/scripting-manual/creating-a-custom-loadscreen">Creating a custom loadscreen</a></li>
         <li><a href="/scripting-manual/working-with-events">Working with events</a></li>
