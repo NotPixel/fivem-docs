@@ -1,6 +1,6 @@
 ---
 title: Ways Of Living
-weight: 225
+weight: 240
 ---
 
 At NotPixel, we offer various ways of living in the wonderful city of Los Santos.
