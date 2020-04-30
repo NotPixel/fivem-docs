@@ -23,6 +23,7 @@ We try to cover all commands in the following table.
 | /e [emote]                    | Play the specified emote.                                                 |
 | /enterroom [motel]            | Enter the specified motel.                                                |
 | /garagefix [garage]           | Removes the camera bug of the specified garage.                           |
+| /givekeys [id] [plate]        | Used to transfer a vehicle to the specified ID with the specified plate.  |
 | /glasses                      | Toggles your glasses (clothing).                                          |
 | /gloves                       | Toggles your gloves (clothing).                                           |
 | /hat                          | Toggles your hat (clothing).                                              |
@@ -46,6 +47,5 @@ We try to cover all commands in the following table.
 | /shoes                        | Toggles your shoes (clothing).                                            |
 | /showbills                    | Shows your invoices.                                                      |
 | /th                           | Takes the closest player to you hostage.                                  |
-| /transfervehicle [id] [plate] | Used to transfer a vehicle to the specified ID with the specified plate.  |
 | /walk [style]                 | Plays the specified walk.                                                 |
 | /walks                        | Lists all available walk styles.                                          |       
